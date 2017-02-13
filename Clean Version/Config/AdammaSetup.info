@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<AdammaSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProgramSetting>
+    <StartWithWindows>true</StartWithWindows>
+    <RefreshCycle>600</RefreshCycle>
+    <CustomizeGridViewLoading>false</CustomizeGridViewLoading>
+    <UseCustomizedFieldWhenExcuteQuery>true</UseCustomizedFieldWhenExcuteQuery>
+    <DefaultQueryForLoad />
+    <PreLoadingAllSingalBugsData>true</PreLoadingAllSingalBugsData>
+    <LoadingFromQuery>false</LoadingFromQuery>
+    <DefaultTeamNameForLoad>GFM</DefaultTeamNameForLoad>
+    <LoadingFromDefaultTeam>true</LoadingFromDefaultTeam>
+    <BarType>Cluster</BarType>
+  </ProgramSetting>
+  <HistorySetting>
+    <HistoryLoadingTeam>GFM</HistoryLoadingTeam>
+    <HistoryLoadingBugType>0110110</HistoryLoadingBugType>
+    <HistoryLoadingBugStatus>ActiveBugs</HistoryLoadingBugStatus>
+  </HistorySetting>
+  <InfoLocation>
+    <QueryRootFolder>D:\OneDrive\Coding\Released Project\Adamma V2.0\Adamma2 Clean Version\Config\UserQuery</QueryRootFolder>
+    <TeamInfoLoc>D:\OneDrive\Coding\Released Project\Adamma V2.0\Adamma2 Clean Version\Config\TeamInfo.config</TeamInfoLoc>
+    <FieldsLoc>D:\OneDrive\Coding\Released Project\Adamma V2.0\Adamma2 Clean Version\Config\TFSFields.config</FieldsLoc>
+  </InfoLocation>
+</AdammaSetting>

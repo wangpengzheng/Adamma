@@ -1,0 +1,6 @@
+D:\OneDrive\Coding\Released Project\Adamma V2.0\Adamma Source Code\Adamma Source Code\Adamma\obj\x86\Debug\Adamma.csprojResolveAssemblyReference.cache
+D:\OneDrive\Coding\Released Project\Adamma V2.0\Adamma Source Code\Adamma Source Code\Adamma\obj\x86\Debug\Adamma.Adamma.resources
+D:\OneDrive\Coding\Released Project\Adamma V2.0\Adamma Source Code\Adamma Source Code\Adamma\obj\x86\Debug\Adamma.GoToBug.resources
+D:\OneDrive\Coding\Released Project\Adamma V2.0\Adamma Source Code\Adamma Source Code\Adamma\obj\x86\Debug\Adamma.Properties.Resources.resources
+D:\OneDrive\Coding\Released Project\Adamma V2.0\Adamma Source Code\Adamma Source Code\Adamma\obj\x86\Debug\Adamma.SetUp.resources
+D:\OneDrive\Coding\Released Project\Adamma V2.0\Adamma Source Code\Adamma Source Code\Adamma\obj\x86\Debug\Adamma.csproj.GenerateResource.Cache
