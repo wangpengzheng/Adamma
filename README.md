@@ -1,4 +1,4 @@
-###Adamma v2 is a programs mainly used to track the SLA (number, rate) for each team. Analysis the On hand bugs, work load, productivities between teams and team members under any period. 
+### Adamma v2 is a programs mainly used to track the SLA (number, rate) for each team. Analysis the On hand bugs, work load, productivities between teams and team members under any period. 
 
 Reference tech: WinForm, Chart(Use [ZedGrap](https://sourceforge.net/projects/zedgraph/files/)), Team Foundation Server.
 
